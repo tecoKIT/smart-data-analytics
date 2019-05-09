@@ -2,7 +2,19 @@ import numpy as np
 
 
 def is_one_hot_encoded(a):
-    """Checks if the rows in the array or dataframe `a` are one-hot encoded."""
+    """
+    Checks if the rows in the array or dataframe `a` are one-hot encoded.
+
+    Parameters
+    ----------
+    a : array_like
+        Numpy array / dataframe to be checked for one-hot encoding
+
+    Returns
+    -------
+    one_hot_encoded : boolean
+        True, if the rows of the input are on-hot encoded; False otherwise.
+    """
     if np.any(np.logical_and(a != 1, a != 0)):
         # Return False if other values than 1 or 0 are present.
         return False
@@ -14,7 +26,19 @@ def is_one_hot_encoded(a):
 
 
 def one_hot_to_ordinal(a):
-    """Converts one-hot encoded array or dataframe to a 1D-array with ordinal numbers."""
+    """
+    Converts one-hot encoded array or dataframe to a 1D-array with ordinal numbers.
+
+    Parameters
+    ----------
+    a : array_like
+        Numpy array / dataframe to be converted to ordinal
+
+    Returns
+    -------
+    one_hot_encoded : np_array
+        One column representing the ordinals.
+    """
     def index_of_one(a):
         # Returns number of column that contains the 1
         return np.where(a == 1)[0]
