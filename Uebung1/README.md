@@ -4,7 +4,7 @@ Dieses Projekt enthält die Lösungen für das [erste Übungsblatt](./Uebungsbla
 
 Die Analysen sind ausschließlich in Python durchgeführt.
 
-Installationsanweisungen / Abhängigkeiten
+## Installationsanweisungen / Abhängigkeiten
 
 Dieses Projekt arbeitet an der Conda-Umgebung.
 
@@ -14,7 +14,7 @@ Dieses Projekt arbeitet an der Conda-Umgebung.
           
         conda install --file requirements.txt
         
-Inhaltsverzeichnis
+## Inhaltsverzeichnis
 
 1. Ordner `data`: Enthält die verfügbaren Datensätze
 2. Ordner `module`
