@@ -1,0 +1,22 @@
+R version 3.5.1 (2018-07-02)
+Platform: x86_64-w64-mingw32/x64 (64-bit)
+Running under: Windows 10 x64 (build 17134)
+
+Matrix products: default
+
+locale:
+[1] LC_COLLATE=German_Germany.1252  LC_CTYPE=German_Germany.1252
+[3] LC_MONETARY=German_Germany.1252 LC_NUMERIC=C
+[5] LC_TIME=German_Germany.1252
+
+attached base packages:
+[1] tools     stats     graphics  grDevices utils     datasets  methods
+[8] base
+
+other attached packages:
+[1] betareg_3.1-0        RevoUtils_11.0.1     RevoUtilsMath_11.0.0
+
+loaded via a namespace (and not attached):
+ [1] zoo_1.8-3         compiler_3.5.1    modeltools_0.2-22 sandwich_2.4-0
+ [5] nnet_7.3-12       flexmix_2.3-14    grid_3.5.1        lmtest_0.9-36
+ [9] Formula_1.2-3     stats4_3.5.1      lattice_0.20-35
