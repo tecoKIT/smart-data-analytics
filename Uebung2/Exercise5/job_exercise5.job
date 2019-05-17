@@ -1,6 +1,6 @@
 cmd = Exercise5/script_exercise5.sh
 request_memory = 16GB
-request_cpus = 1 
+request_cpus = 32 
 +REQUESTED_WALLTIME = 4
 notify_user = uiuqb@student.kit.edu
 notification = Always
