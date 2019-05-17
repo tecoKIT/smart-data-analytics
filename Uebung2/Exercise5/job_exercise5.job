@@ -1,0 +1,13 @@
+cmd = Exercise5/script_exercise5.sh
+request_memory = 16GB
+request_cpus = 1 
++REQUESTED_WALLTIME = 4
+notify_user = uiuqb@student.kit.edu
+notification = Always
+when_to_transfer_output = ON_EXIT_OR_EVICT
+should_transfer_files = YES
+transfer_input_files = data
+output = Exercise5/log/$(Cluster)-$(Process)_job.out
+error = Exercise5/log/$(Cluster)-$(Process)_job.error
+log = Exercise5/log/$(Cluster)- $(Process)_job.log
+queue 1
