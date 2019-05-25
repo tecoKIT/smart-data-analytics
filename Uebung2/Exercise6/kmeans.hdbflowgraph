@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowgraph:ContainerNode xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:flowgraph="http://www.sap.com/ndb/flowgraph/1.0" xmi:id="_LohyQH4jEemir4WtEBgf4Q" name="KMEANS" generateProcedure="true" generateTask="false" targetSchema="UTNSU">
+  <annotations xmi:id="_LorjQH4jEemir4WtEBgf4Q" key="sap.afm.layout">
+    <annotations xmi:id="_LorjQX4jEemir4WtEBgf4Q" key="x" value="10"/>
+    <annotations xmi:id="_LorjQn4jEemir4WtEBgf4Q" key="y" value="10"/>
+  </annotations>
+  <annotations xmi:id="_LorjQ34jEemir4WtEBgf4Q" key="sap.afm.palette" value="">
+    <annotations xmi:id="_LorjRH4jEemir4WtEBgf4Q" key="additions" value=""/>
+  </annotations>
+  <annotations xmi:id="_ljwIsH4kEemir4WtEBgf4Q" key="sap.afm.nodeType" value="ContainerNode"/>
+  <annotations xmi:id="_lj55sH4kEemir4WtEBgf4Q" key="sap.afm.nodeInputs"/>
+  <annotations xmi:id="_lkDDoH4kEemir4WtEBgf4Q" key="sap.afm.nodeOutputs"/>
+  <tableMappings xmi:id="_poiCMH4jEemir4WtEBgf4Q" source="_h3bdZH4jEemir4WtEBgf4Q" target="_mRgcB34jEemir4WtEBgf4Q">
+    <attributeMappings xmi:id="_poiCMX4jEemir4WtEBgf4Q" source="_h3bdZX4jEemir4WtEBgf4Q" target="_mRgcCH4jEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_poiCNH4jEemir4WtEBgf4Q" source="_h3bdaX4jEemir4WtEBgf4Q" target="_pne5UH4jEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_poiCNX4jEemir4WtEBgf4Q" source="_h3bdan4jEemir4WtEBgf4Q" target="_pne5UX4jEemir4WtEBgf4Q"/>
+  </tableMappings>
+  <tableMappings xmi:id="_CcFbY34kEemir4WtEBgf4Q" source="_mRgcGn4jEemir4WtEBgf4Q" target="_9Tg_GH4jEemir4WtEBgf4Q">
+    <attributeMappings xmi:id="_CcFbZH4kEemir4WtEBgf4Q" source="_mRgcG34jEemir4WtEBgf4Q" target="_CcFbYH4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_CcFbZX4kEemir4WtEBgf4Q" source="_poOgMX4jEemir4WtEBgf4Q" target="_CcFbYX4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_CcFbZn4kEemir4WtEBgf4Q" source="_poYRMH4jEemir4WtEBgf4Q" target="_CcFbYn4kEemir4WtEBgf4Q"/>
+  </tableMappings>
+  <tableMappings xmi:id="_IXwvoX4kEemir4WtEBgf4Q" source="_mRgcE34jEemir4WtEBgf4Q" target="_E_ZsuX4kEemir4WtEBgf4Q">
+    <attributeMappings xmi:id="_IXwvon4kEemir4WtEBgf4Q" source="_mRgcFH4jEemir4WtEBgf4Q" target="_IWRh4H4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_IXwvo34kEemir4WtEBgf4Q" source="_mRgcFn4jEemir4WtEBgf4Q" target="_IWar0H4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_IXwvpH4kEemir4WtEBgf4Q" source="_mRgcGH4jEemir4WtEBgf4Q" target="_IWkc0H4kEemir4WtEBgf4Q"/>
+  </tableMappings>
+  <tableMappings xmi:id="_I7hkE34kEemir4WtEBgf4Q" source="_h3bdZH4jEemir4WtEBgf4Q" target="_E_ZsuH4kEemir4WtEBgf4Q">
+    <attributeMappings xmi:id="_I7hkFH4kEemir4WtEBgf4Q" source="_h3bdZX4jEemir4WtEBgf4Q" target="_I7hkAH4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_I7hkFX4kEemir4WtEBgf4Q" source="_h3bdZn4jEemir4WtEBgf4Q" target="_I7hkAX4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_I7hkFn4kEemir4WtEBgf4Q" source="_h3bdZ34jEemir4WtEBgf4Q" target="_I7hkAn4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_I7hkF34kEemir4WtEBgf4Q" source="_h3bdaH4jEemir4WtEBgf4Q" target="_I7hkA34kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_I7hkGH4kEemir4WtEBgf4Q" source="_h3bdaX4jEemir4WtEBgf4Q" target="_I7hkBH4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_I7hkGX4kEemir4WtEBgf4Q" source="_h3bdan4jEemir4WtEBgf4Q" target="_I7hkBX4kEemir4WtEBgf4Q"/>
+  </tableMappings>
+  <tableMappings xmi:id="_KzxfGH4kEemir4WtEBgf4Q" source="_E_Zsun4kEemir4WtEBgf4Q" target="_8Bjn-H4jEemir4WtEBgf4Q">
+    <attributeMappings xmi:id="_KzxfGX4kEemir4WtEBgf4Q" source="_IXBIwH4kEemir4WtEBgf4Q" target="_KznuEH4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_KzxfGn4kEemir4WtEBgf4Q" source="_IXKSsH4kEemir4WtEBgf4Q" target="_KzxfEH4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_KzxfG34kEemir4WtEBgf4Q" source="_IXKSsX4kEemir4WtEBgf4Q" target="_KzxfEX4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_KzxfHH4kEemir4WtEBgf4Q" source="_I7hkBn4kEemir4WtEBgf4Q" target="_KzxfEn4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_KzxfHX4kEemir4WtEBgf4Q" source="_I7hkB34kEemir4WtEBgf4Q" target="_KzxfE34kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_KzxfHn4kEemir4WtEBgf4Q" source="_I7hkCH4kEemir4WtEBgf4Q" target="_KzxfFH4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_KzxfH34kEemir4WtEBgf4Q" source="_I7hkCX4kEemir4WtEBgf4Q" target="_KzxfFX4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_KzxfIH4kEemir4WtEBgf4Q" source="_I7hkCn4kEemir4WtEBgf4Q" target="_KzxfFn4kEemir4WtEBgf4Q"/>
+    <attributeMappings xmi:id="_KzxfIX4kEemir4WtEBgf4Q" source="_I7hkC34kEemir4WtEBgf4Q" target="_KzxfF34kEemir4WtEBgf4Q"/>
+  </tableMappings>
+  <nodes xsi:type="flowgraph:DataNode" xmi:id="_h3bdYH4jEemir4WtEBgf4Q" name="CUSTOMERS" type="DATABASE_TABLE" authoringSchemaName="UTNSU" catalogObjectName="CUSTOMERS" dataLayout="COLUMN" truncateTable="false">
+    <annotations xmi:id="_h3bdYX4jEemir4WtEBgf4Q" key="sap.afm.layout">
+      <annotations xmi:id="_h3bdYn4jEemir4WtEBgf4Q" key="x" value="119"/>
+      <annotations xmi:id="_h3bdY34jEemir4WtEBgf4Q" key="y" value="139"/>
+    </annotations>
+    <annotations xmi:id="_lkDDoX4kEemir4WtEBgf4Q" key="sap.afm.nodeType" value="DataNode"/>
+    <annotations xmi:id="_lkM0oH4kEemir4WtEBgf4Q" key="sap.afm.nodeInputs"/>
+    <annotations xmi:id="_lkV-kH4kEemir4WtEBgf4Q" key="sap.afm.nodeOutputs">
+      <annotations xmi:id="_lkV-kX4kEemir4WtEBgf4Q" key="DATA" value="DATA_2,INPUT1"/>
+    </annotations>
+    <outputs xmi:id="_h3bdZH4jEemir4WtEBgf4Q" name="DATA" kind="TABLE">
+      <attributes xmi:id="_h3bdZX4jEemir4WtEBgf4Q" name="ID" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_h3bdZn4jEemir4WtEBgf4Q" name="CUSTOMER" type="NVARCHAR" nullable="true" length="60" scale="0"/>
+      <attributes xmi:id="_h3bdZ34jEemir4WtEBgf4Q" name="LIFESPEND" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_h3bdaH4jEemir4WtEBgf4Q" name="NEWSPEND" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_h3bdaX4jEemir4WtEBgf4Q" name="INCOME" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_h3bdan4jEemir4WtEBgf4Q" name="LOYALTY" type="DOUBLE" nullable="true" length="0" scale="0"/>
+    </outputs>
+  </nodes>
+  <nodes xsi:type="flowgraph:FunctionNode" xmi:id="_mRgcAH4jEemir4WtEBgf4Q" name="KMEANS" areaName="AFLPAL" functionName="KMEANS" functionCategory="VAR_COLUMN">
+    <annotations xmi:id="_mRgcAX4jEemir4WtEBgf4Q" key="sap.afm.description" value="Partition n records into k clusters in which each record belongs to the cluster with the nearest center"/>
+    <annotations xmi:id="_mRgcAn4jEemir4WtEBgf4Q" key="sap.afm.displayName" value="K-means"/>
+    <annotations xmi:id="_mRgcA34jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+    <annotations xmi:id="_mRgcBH4jEemir4WtEBgf4Q" key="sap.afm.layout">
+      <annotations xmi:id="_mRgcBX4jEemir4WtEBgf4Q" key="x" value="340"/>
+      <annotations xmi:id="_mRgcBn4jEemir4WtEBgf4Q" key="y" value="135"/>
+    </annotations>
+    <annotations xmi:id="_lkpgkH4kEemir4WtEBgf4Q" key="sap.afm.nodeType" value="FunctionNode"/>
+    <annotations xmi:id="_lkyqgH4kEemir4WtEBgf4Q" key="sap.afm.nodeInputs">
+      <annotations xmi:id="_lk8bgH4kEemir4WtEBgf4Q" key="DATA_2" value="DATA"/>
+      <annotations xmi:id="_lk8bgX4kEemir4WtEBgf4Q" key="PARAMS" value=""/>
+    </annotations>
+    <annotations xmi:id="_llZHcH4kEemir4WtEBgf4Q" key="sap.afm.nodeOutputs">
+      <annotations xmi:id="_lliRYH4kEemir4WtEBgf4Q" key="RESULT" value="INPUT2"/>
+      <annotations xmi:id="_lliRYX4kEemir4WtEBgf4Q" key="CENTER_POINTS" value="DATA_4"/>
+    </annotations>
+    <inputs xmi:id="_mRgcB34jEemir4WtEBgf4Q" name="DATA_2" regex="[ISF8_19_0][IDS]+" kind="TABLE">
+      <attributes xmi:id="_mRgcCH4jEemir4WtEBgf4Q" name="ID" type="INTEGER" nullable="false" length="0" scale="0">
+        <annotations xmi:id="_mRgcCX4jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+      </attributes>
+      <attributes xmi:id="_pne5UH4jEemir4WtEBgf4Q" name="INCOME" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_pne5UX4jEemir4WtEBgf4Q" name="LOYALTY" type="DOUBLE" nullable="true" length="0" scale="0"/>
+    </inputs>
+    <inputs xmi:id="_mRgcCn4jEemir4WtEBgf4Q" name="PARAMS" regex="SIDS" kind="TABLE">
+      <attributes xmi:id="_mRgcC34jEemir4WtEBgf4Q" name="NAME" type="VARCHAR" nullable="true" length="50" scale="0">
+        <annotations xmi:id="_mRgcDH4jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+      </attributes>
+      <attributes xmi:id="_mRgcDX4jEemir4WtEBgf4Q" name="INTARGS" type="INTEGER" nullable="true" length="0" scale="0">
+        <annotations xmi:id="_mRgcDn4jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+      </attributes>
+      <attributes xmi:id="_mRgcD34jEemir4WtEBgf4Q" name="DOUBLEARGS" type="DOUBLE" nullable="true" length="0" scale="0">
+        <annotations xmi:id="_mRgcEH4jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+      </attributes>
+      <attributes xmi:id="_mRgcEX4jEemir4WtEBgf4Q" name="STRINGARGS" type="VARCHAR" nullable="true" length="100" scale="0">
+        <annotations xmi:id="_mRgcEn4jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+      </attributes>
+    </inputs>
+    <outputs xmi:id="_mRgcE34jEemir4WtEBgf4Q" name="RESULT" regex="[ISF8_19_0][IDS]+" kind="TABLE">
+      <attributes xmi:id="_mRgcFH4jEemir4WtEBgf4Q" name="ID" type="INTEGER" nullable="false" length="0" scale="0">
+        <annotations xmi:id="_mRgcFX4jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+      </attributes>
+      <attributes xmi:id="_mRgcFn4jEemir4WtEBgf4Q" name="CENTER_ASSIGN" type="INTEGER" nullable="false" length="0" scale="0">
+        <annotations xmi:id="_mRgcF34jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+      </attributes>
+      <attributes xmi:id="_mRgcGH4jEemir4WtEBgf4Q" name="ENERGY" type="DOUBLE" nullable="false" length="0" scale="0">
+        <annotations xmi:id="_mRgcGX4jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+      </attributes>
+    </outputs>
+    <outputs xmi:id="_mRgcGn4jEemir4WtEBgf4Q" name="CENTER_POINTS" regex="I[IDS]+" kind="TABLE">
+      <attributes xmi:id="_mRgcG34jEemir4WtEBgf4Q" name="CENTER_ID" type="INTEGER" nullable="false" length="0" scale="0">
+        <annotations xmi:id="_mRgcHH4jEemir4WtEBgf4Q" key="sap.afm.isReadOnly" value="true"/>
+      </attributes>
+      <attributes xmi:id="_poOgMX4jEemir4WtEBgf4Q" name="INCOME" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_poYRMH4jEemir4WtEBgf4Q" name="LOYALTY" type="DOUBLE" nullable="true" length="0" scale="0"/>
+    </outputs>
+    <tables xmi:id="_mRgcHX4jEemir4WtEBgf4Q" type="_mRgcCn4jEemir4WtEBgf4Q" active="true">
+      <rows xmi:id="_mRgcHn4jEemir4WtEBgf4Q">
+        <values>&quot;GROUP_NUMBER&quot;</values>
+        <values>3</values>
+        <values>NULL</values>
+        <values>NULL</values>
+      </rows>
+      <rows xmi:id="_mRgcH34jEemir4WtEBgf4Q">
+        <values>&quot;DISTANCE_LEVEL&quot;</values>
+        <values>2</values>
+        <values>NULL</values>
+        <values>NULL</values>
+      </rows>
+      <rows xmi:id="_mRgcIH4jEemir4WtEBgf4Q">
+        <values>&quot;MINKOWSKI_POWER&quot;</values>
+        <values>NULL</values>
+        <values>3</values>
+        <values>NULL</values>
+      </rows>
+      <rows xmi:id="_mRgcIX4jEemir4WtEBgf4Q">
+        <values>&quot;MAX_ITERATION&quot;</values>
+        <values>100</values>
+        <values>NULL</values>
+        <values>NULL</values>
+      </rows>
+      <rows xmi:id="_mRgcIn4jEemir4WtEBgf4Q">
+        <values>&quot;INIT_TYPE&quot;</values>
+        <values>4</values>
+        <values>NULL</values>
+        <values>NULL</values>
+      </rows>
+      <rows xmi:id="_mRgcI34jEemir4WtEBgf4Q">
+        <values>&quot;NORMALIZATION&quot;</values>
+        <values>0</values>
+        <values>NULL</values>
+        <values>NULL</values>
+      </rows>
+      <rows xmi:id="_mRgcJH4jEemir4WtEBgf4Q">
+        <values>&quot;THREAD_NUMBER&quot;</values>
+        <values>8</values>
+        <values>NULL</values>
+        <values>NULL</values>
+      </rows>
+      <rows xmi:id="_mRgcJX4jEemir4WtEBgf4Q">
+        <values>&quot;CATEGORY_WEIGHTS&quot;</values>
+        <values>NULL</values>
+        <values>0.707</values>
+        <values>NULL</values>
+      </rows>
+      <rows xmi:id="_mRgcJn4jEemir4WtEBgf4Q">
+        <values>&quot;EXIT_THRESHOLD&quot;</values>
+        <values>NULL</values>
+        <values>0.000000001</values>
+        <values>NULL</values>
+      </rows>
+    </tables>
+  </nodes>
+  <nodes xsi:type="flowgraph:DataNode" xmi:id="_8Bjn8H4jEemir4WtEBgf4Q" name="TEMPLATESINK" type="TEMPLATE_TABLE" authoringSchemaName="UTNSU" catalogObjectName="KM_RESULTS" dataLayout="COLUMN" truncateTable="false">
+    <annotations xmi:id="_8Bjn8X4jEemir4WtEBgf4Q" key="sap.afm.description" value="Create a catalog object and write data to it"/>
+    <annotations xmi:id="_8Bjn8n4jEemir4WtEBgf4Q" key="sap.afm.displayName" value="Data Sink (Template Table)"/>
+    <annotations xmi:id="_8Bjn834jEemir4WtEBgf4Q" key="sap.afm.layout">
+      <annotations xmi:id="_8Bjn9H4jEemir4WtEBgf4Q" key="x" value="654"/>
+      <annotations xmi:id="_8Bjn9X4jEemir4WtEBgf4Q" key="y" value="40"/>
+      <annotations xmi:id="_8Bjn9n4jEemir4WtEBgf4Q" key="width" value="100"/>
+      <annotations xmi:id="_8Bjn934jEemir4WtEBgf4Q" key="height" value="64"/>
+    </annotations>
+    <annotations xmi:id="_ll-9UH4kEemir4WtEBgf4Q" key="sap.afm.nodeType" value="DataNode"/>
+    <annotations xmi:id="_lmIuUH4kEemir4WtEBgf4Q" key="sap.afm.nodeInputs">
+      <annotations xmi:id="_lmSfUH4kEemir4WtEBgf4Q" key="DATA_3" value="OUTPUT"/>
+    </annotations>
+    <annotations xmi:id="_lmbpQH4kEemir4WtEBgf4Q" key="sap.afm.nodeOutputs"/>
+    <inputs xmi:id="_8Bjn-H4jEemir4WtEBgf4Q" name="DATA_3" kind="TABLE">
+      <attributes xmi:id="_KznuEH4kEemir4WtEBgf4Q" name="ID" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_KzxfEH4kEemir4WtEBgf4Q" name="CENTER_ASSIGN" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_KzxfEX4kEemir4WtEBgf4Q" name="ENERGY" type="DOUBLE" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_KzxfEn4kEemir4WtEBgf4Q" name="ID_2" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_KzxfE34kEemir4WtEBgf4Q" name="CUSTOMER" type="NVARCHAR" nullable="true" length="60" scale="0"/>
+      <attributes xmi:id="_KzxfFH4kEemir4WtEBgf4Q" name="LIFESPEND" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_KzxfFX4kEemir4WtEBgf4Q" name="NEWSPEND" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_KzxfFn4kEemir4WtEBgf4Q" name="INCOME" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_KzxfF34kEemir4WtEBgf4Q" name="LOYALTY" type="DOUBLE" nullable="true" length="0" scale="0"/>
+    </inputs>
+  </nodes>
+  <nodes xsi:type="flowgraph:DataNode" xmi:id="_9Tg_EH4jEemir4WtEBgf4Q" name="TEMPLATESINK_2" type="TEMPLATE_TABLE" authoringSchemaName="UTNSU" catalogObjectName="KM_CENTER_POINTS" dataLayout="COLUMN" truncateTable="false">
+    <annotations xmi:id="_9Tg_EX4jEemir4WtEBgf4Q" key="sap.afm.description" value="Create a catalog object and write data to it"/>
+    <annotations xmi:id="_9Tg_En4jEemir4WtEBgf4Q" key="sap.afm.displayName" value="Data Sink (Template Table)"/>
+    <annotations xmi:id="_9Tg_E34jEemir4WtEBgf4Q" key="sap.afm.layout">
+      <annotations xmi:id="_9Tg_FH4jEemir4WtEBgf4Q" key="x" value="559"/>
+      <annotations xmi:id="_9Tg_FX4jEemir4WtEBgf4Q" key="y" value="244"/>
+      <annotations xmi:id="_9Tg_Fn4jEemir4WtEBgf4Q" key="width" value="100"/>
+      <annotations xmi:id="_9Tg_F34jEemir4WtEBgf4Q" key="height" value="64"/>
+    </annotations>
+    <annotations xmi:id="_lmlaQH4kEemir4WtEBgf4Q" key="sap.afm.nodeType" value="DataNode"/>
+    <annotations xmi:id="_lmukMH4kEemir4WtEBgf4Q" key="sap.afm.nodeInputs">
+      <annotations xmi:id="_lmukMX4kEemir4WtEBgf4Q" key="DATA_4" value="CENTER_POINTS"/>
+    </annotations>
+    <annotations xmi:id="_lnCGMH4kEemir4WtEBgf4Q" key="sap.afm.nodeOutputs"/>
+    <inputs xmi:id="_9Tg_GH4jEemir4WtEBgf4Q" name="DATA_4" kind="TABLE">
+      <attributes xmi:id="_CcFbYH4kEemir4WtEBgf4Q" name="CENTER_ID" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_CcFbYX4kEemir4WtEBgf4Q" name="INCOME" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_CcFbYn4kEemir4WtEBgf4Q" name="LOYALTY" type="DOUBLE" nullable="true" length="0" scale="0"/>
+    </inputs>
+  </nodes>
+  <nodes xsi:type="flowgraph:JoinNode" xmi:id="_E_ZssH4kEemir4WtEBgf4Q" name="JOIN">
+    <annotations xmi:id="_E_ZssX4kEemir4WtEBgf4Q" key="sap.afm.description" value="Join two input sources"/>
+    <annotations xmi:id="_E_Zssn4kEemir4WtEBgf4Q" key="sap.afm.displayName" value="Join"/>
+    <annotations xmi:id="_E_Zss34kEemir4WtEBgf4Q" key="sap.afm.layout">
+      <annotations xmi:id="_E_ZstH4kEemir4WtEBgf4Q" key="x" value="486"/>
+      <annotations xmi:id="_E_ZstX4kEemir4WtEBgf4Q" key="y" value="24"/>
+      <annotations xmi:id="_E_Zstn4kEemir4WtEBgf4Q" key="width" value="100"/>
+      <annotations xmi:id="_E_Zst34kEemir4WtEBgf4Q" key="height" value="104"/>
+    </annotations>
+    <annotations xmi:id="_lnCGMX4kEemir4WtEBgf4Q" key="sap.afm.nodeType" value="JoinNode"/>
+    <annotations xmi:id="_lnVBIH4kEemir4WtEBgf4Q" key="sap.afm.nodeInputs">
+      <annotations xmi:id="_lnVBIX4kEemir4WtEBgf4Q" key="INPUT1" value="DATA"/>
+      <annotations xmi:id="_lneyIH4kEemir4WtEBgf4Q" key="INPUT2" value="RESULT"/>
+    </annotations>
+    <annotations xmi:id="_lnxtEH4kEemir4WtEBgf4Q" key="sap.afm.nodeOutputs">
+      <annotations xmi:id="_ln63AH4kEemir4WtEBgf4Q" key="OUTPUT" value="DATA_3"/>
+    </annotations>
+    <inputs xmi:id="_E_ZsuH4kEemir4WtEBgf4Q" name="INPUT1" kind="TABLE">
+      <attributes xmi:id="_I7hkAH4kEemir4WtEBgf4Q" name="ID" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_I7hkAX4kEemir4WtEBgf4Q" name="CUSTOMER" type="NVARCHAR" nullable="true" length="60" scale="0"/>
+      <attributes xmi:id="_I7hkAn4kEemir4WtEBgf4Q" name="LIFESPEND" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_I7hkA34kEemir4WtEBgf4Q" name="NEWSPEND" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_I7hkBH4kEemir4WtEBgf4Q" name="INCOME" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_I7hkBX4kEemir4WtEBgf4Q" name="LOYALTY" type="DOUBLE" nullable="true" length="0" scale="0"/>
+    </inputs>
+    <inputs xmi:id="_E_ZsuX4kEemir4WtEBgf4Q" name="INPUT2" kind="TABLE">
+      <attributes xmi:id="_IWRh4H4kEemir4WtEBgf4Q" name="ID" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_IWar0H4kEemir4WtEBgf4Q" name="CENTER_ASSIGN" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_IWkc0H4kEemir4WtEBgf4Q" name="ENERGY" type="DOUBLE" nullable="false" length="0" scale="0"/>
+    </inputs>
+    <outputs xmi:id="_E_Zsun4kEemir4WtEBgf4Q" name="OUTPUT" kind="TABLE">
+      <attributes xmi:id="_IXBIwH4kEemir4WtEBgf4Q" name="ID" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_IXKSsH4kEemir4WtEBgf4Q" name="CENTER_ASSIGN" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_IXKSsX4kEemir4WtEBgf4Q" name="ENERGY" type="DOUBLE" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_I7hkBn4kEemir4WtEBgf4Q" name="ID_2" type="INTEGER" nullable="false" length="0" scale="0"/>
+      <attributes xmi:id="_I7hkB34kEemir4WtEBgf4Q" name="CUSTOMER" type="NVARCHAR" nullable="true" length="60" scale="0"/>
+      <attributes xmi:id="_I7hkCH4kEemir4WtEBgf4Q" name="LIFESPEND" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_I7hkCX4kEemir4WtEBgf4Q" name="NEWSPEND" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_I7hkCn4kEemir4WtEBgf4Q" name="INCOME" type="DOUBLE" nullable="true" length="0" scale="0"/>
+      <attributes xmi:id="_I7hkC34kEemir4WtEBgf4Q" name="LOYALTY" type="DOUBLE" nullable="true" length="0" scale="0"/>
+    </outputs>
+    <tableMappings xmi:id="_IXUDsH4kEemir4WtEBgf4Q" source="_E_ZsuX4kEemir4WtEBgf4Q" target="_E_Zsun4kEemir4WtEBgf4Q">
+      <attributeMappings xmi:id="_IXd0sH4kEemir4WtEBgf4Q" source="_IWRh4H4kEemir4WtEBgf4Q" target="_IXBIwH4kEemir4WtEBgf4Q"/>
+      <attributeMappings xmi:id="_IXm-oH4kEemir4WtEBgf4Q" source="_IWar0H4kEemir4WtEBgf4Q" target="_IXKSsH4kEemir4WtEBgf4Q"/>
+      <attributeMappings xmi:id="_IXwvoH4kEemir4WtEBgf4Q" source="_IWkc0H4kEemir4WtEBgf4Q" target="_IXKSsX4kEemir4WtEBgf4Q"/>
+    </tableMappings>
+    <tableMappings xmi:id="_I7hkDH4kEemir4WtEBgf4Q" source="_E_ZsuH4kEemir4WtEBgf4Q" target="_E_Zsun4kEemir4WtEBgf4Q">
+      <attributeMappings xmi:id="_I7hkDX4kEemir4WtEBgf4Q" source="_I7hkAH4kEemir4WtEBgf4Q" target="_I7hkBn4kEemir4WtEBgf4Q"/>
+      <attributeMappings xmi:id="_I7hkDn4kEemir4WtEBgf4Q" source="_I7hkAX4kEemir4WtEBgf4Q" target="_I7hkB34kEemir4WtEBgf4Q"/>
+      <attributeMappings xmi:id="_I7hkD34kEemir4WtEBgf4Q" source="_I7hkAn4kEemir4WtEBgf4Q" target="_I7hkCH4kEemir4WtEBgf4Q"/>
+      <attributeMappings xmi:id="_I7hkEH4kEemir4WtEBgf4Q" source="_I7hkA34kEemir4WtEBgf4Q" target="_I7hkCX4kEemir4WtEBgf4Q"/>
+      <attributeMappings xmi:id="_I7hkEX4kEemir4WtEBgf4Q" source="_I7hkBH4kEemir4WtEBgf4Q" target="_I7hkCn4kEemir4WtEBgf4Q"/>
+      <attributeMappings xmi:id="_I7hkEn4kEemir4WtEBgf4Q" source="_I7hkBX4kEemir4WtEBgf4Q" target="_I7hkC34kEemir4WtEBgf4Q"/>
+    </tableMappings>
+    <joinDefinitions xmi:id="_NUjZwH4kEemir4WtEBgf4Q" left="_E_ZsuH4kEemir4WtEBgf4Q" right="_E_ZsuX4kEemir4WtEBgf4Q" type="INNER" condition="&quot;INPUT1&quot;.&quot;ID&quot;=&quot;INPUT2&quot;.&quot;ID&quot;"/>
+  </nodes>
+</flowgraph:ContainerNode>
