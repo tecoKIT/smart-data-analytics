@@ -1,5 +1,5 @@
 # This file may be used to create an environment using:
-# $ conda create --name <env> --file <this file>
+# $ conda env create --name <env> --file <this file>
 h2o=3.18.0.2
 h2o-py=3.18.0.2
 jupyter=1.0.0
